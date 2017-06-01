@@ -1,0 +1,9 @@
+c Permet Cond Perm;;
+c-----------------------------------
+c indice 0
+c material externo
+1;0;10
+c-----------------------------------
+c indice 1
+c material com termo fonte
+1;0;1
